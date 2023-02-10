@@ -1,3 +1,5 @@
 const js = () => {
-  return true;
+  let test = "{}{}()";
+
+  return test.toLocaleString();
 };
