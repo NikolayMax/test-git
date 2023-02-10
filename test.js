@@ -1,0 +1,3 @@
+const js = () => {
+  return true;
+};
